@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <body>
+      
+    </body>
+    <title>自动跳转页面</title>
+    <style>
+      #iFrame {
+        width: 100%;
+        height: 500px;
+      }</style>
+
+        <iframe id="myFrame" src="https://www.ximalaya.com/gerenchengzhang/78141046/666194163" frameborder="0"></iframe>
+        
+      </body>
+    </html>
+  
+<iframe src="https://mp.weixin.qq.com/s/oGfjG6TUvJc9PMI-PzxOAA" frameborder="0" id="iFrame" width="100%" scrolling="no" :height="height"></iframe>
+  </body>
+</html>
